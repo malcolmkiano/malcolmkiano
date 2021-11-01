@@ -4,7 +4,7 @@ I'm a freelance web designer & full-stack developer. I'm seriously into writing 
 
 [![Rajasegar's github stats](https://github-readme-stats.vercel.app/api?username=malcolmkiano)](#)
 
-#### Breakdown:
+#### Stack:
 
 [![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](#)
 [![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](#)
