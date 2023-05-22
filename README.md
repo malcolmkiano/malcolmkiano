@@ -2,8 +2,6 @@
 
 I'm a freelance web designer & full-stack developer. I'm seriously into writing pretty code, crafting exceptional UX, and using accessibility best practices.
 
-[![Malcolm's github stats](https://github-readme-stats.vercel.app/api?username=malcolmkiano&theme=dark&show_icons=true)](#)
-
 #### Stack:
 
 [![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](#)
